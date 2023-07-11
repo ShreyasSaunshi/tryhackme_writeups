@@ -14,9 +14,10 @@ Ans: No answer needed
 <br>
 <br>
 # Task 4:
-### Question 1
+### Question 1: If we wanted to output the text "TryHackMe", what would our command be?
+
 Ans: "echo TryHackMe"
-### Question 2
+### Question 2: What is the username of who you're logged in as on your deployed Linux machine?
 Ans: tryhackme
 <br>
 <br>
