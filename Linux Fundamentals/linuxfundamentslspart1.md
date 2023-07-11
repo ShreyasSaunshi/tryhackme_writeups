@@ -21,3 +21,12 @@ Ans: "echo TryHackMe"
 Ans: tryhackme
 <br>
 <br>
+# Task 5:
+### Question 1: On the Linux machine that you deploy, how many folders are there?
+Ans: 4
+### Question 2: Which directory contains a file? 
+Ans: folder4
+### Question 3: What is the contents of this file?
+Ans: Hello World
+<br>
+<br>
